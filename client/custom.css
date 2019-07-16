@@ -1,0 +1,12 @@
+.board button {
+  width: 80px;
+  height: 80px;
+  background-color: gray;
+  border-radius: 50px;
+  border: 4px solid black;
+  margin: 1px;
+}
+
+.result {
+  padding-bottom: 10px;
+}
