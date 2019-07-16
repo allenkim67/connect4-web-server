@@ -13,4 +13,4 @@ app.get('/connect4', (req, res) => {
     res.sendFile(path.join(__dirname, '../client/index.html'))
 })
 
-app.listen(8080, () => "listening on port 80")
+app.listen(80, () => "listening on port 80")
