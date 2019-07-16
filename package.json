@@ -1,0 +1,22 @@
+{
+  "name": "connect4-web-server",
+  "version": "1.0.0",
+  "description": "Connect Four is a two-player connection game in which the players first choose a color and then take turns dropping colored discs from the top into a seven-column, six-row vertically suspended grid.",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allenkim67/connect4-web-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allenkim67/connect4-web-server/issues"
+  },
+  "homepage": "https://github.com/allenkim67/connect4-web-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
