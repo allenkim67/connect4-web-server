@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/allenkim67/connect4-web-server#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
